@@ -1,2 +1,6 @@
-{"language": "java",
-"os": "windows"}
+{
+  "language": "java",
+  "group": "stable",
+  "dist": "trusty",
+  "os": "linux"
+}
